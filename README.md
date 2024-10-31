@@ -6,7 +6,7 @@
 Nominated for the Accenture V360 Awards in Innovation.
 
 # TBA
-Q1: ?
+Q1: TBA.
 __________________________________________________________________________________________________________________________________________________
 
 "A big thank you for your continued support of ICS Capstone Projects. The impact you have on our students' learning and practical experience is tremendous." - Mimi Anderson (UCI ICS Capstone Projects Associate Director)
