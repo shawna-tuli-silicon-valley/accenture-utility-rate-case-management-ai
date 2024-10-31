@@ -4,3 +4,6 @@
 ![image](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/16b6858a-3e2a-49e4-96a5-2f0b99ba0dec)
 
 Nominated for the Accenture V360 Awards in Innovation.
+
+![uci](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/bb3f7f54-5294-46dc-9d3a-0329c47a40c2)
+![uci-ics](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/482f595d-640e-43fa-971e-cf95aa43ae31
