@@ -9,7 +9,9 @@ Nominated for the Accenture V360 Awards in Innovation.
 Q1: TBA.
 __________________________________________________________________________________________________________________________________________________
 
-"A big thank you for your continued support of ICS Capstone Projects. The impact you have on our students' learning and practical experience is tremendous." - Mimi Anderson (UCI ICS Capstone Projects Associate Director)
+"Over the past four years, Shawna has been an outstanding partner to the UCI ICS Capstone Projects, consistently delivering impactful projects that connect academic and industry needs. In her role as a Data Science lead with Accenture, Shawna has gone above and beyond, mentoring our students and driving them to tackle real-world challenges with advanced AI solutions. Her leadership shines in fostering a collaborative environment where students feel empowered to contribute their unique strengths, resulting in solutions that not only address client needs but also drive tangible business outcomes.
+
+Shawna's dedication to academic rigor has led her teams to publish their research across respected platforms, including UROP, NSF, and WJARR, adding a meaningful layer of scholarly achievement to the capstone experience. Her combination of technical expertise, hands-on guidance, and motivational leadership has made a significant and lasting impact on our UCI ICS students and the field of data science. I highly recommend Shawna for her visionary leadership and unwavering commitment to advancing innovation through collaboration." - Mimi Anderson (UCI ICS Capstone Projects Associate Director)
 
 ![uci](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/bb3f7f54-5294-46dc-9d3a-0329c47a40c2)
 ![uci-ics](https://github.com/shawna-tuli-silicon-valley/accenture-call-centers-genai-and-predictive-analytics/assets/19508013/482f595d-640e-43fa-971e-cf95aa43ae31)
