@@ -5,8 +5,8 @@
 
 Nominated for the Accenture V360 Awards in Innovation.
 
-# TBA
-Q1: TBA.
+# GRC Response Assistant: AI Solution for Utility Rate Case Management
+Q1: How can we revolutionize how utility companies manage their General Rate Case (GRC) processes?
 __________________________________________________________________________________________________________________________________________________
 
 "Over the past four years, Shawna has been an outstanding partner to the UCI ICS Capstone Projects, consistently delivering impactful projects that connect academic and industry needs. In her role as a Data Science lead with Accenture, Shawna has gone above and beyond, mentoring our students and driving them to tackle real-world challenges with advanced AI solutions. Her leadership shines in fostering a collaborative environment where students feel empowered to contribute their unique strengths, resulting in solutions that not only address client needs but also drive tangible business outcomes.
